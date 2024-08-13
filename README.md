@@ -1,4 +1,4 @@
-<h2 align="left">Welcome👋! I'm a software developer... feel free to check out my portfolio</h2>
+<h2 align="left">Welcome! I'm a software developer... feel free to check out my portfolio</h2>
 
 ###
 
